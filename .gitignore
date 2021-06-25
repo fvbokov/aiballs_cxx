@@ -1,0 +1,8 @@
+# IDE folders
+.vscode
+.vs
+.idea
+
+# Build folders
+build
+dist
